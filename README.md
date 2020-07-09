@@ -1,0 +1,1 @@
+### Hi I'm Shaun! I'm passionate about making things better. Sometimes I do it with code! I'm usually pretty flexible on what I use, but I've been known to whip C#, Web stack (Javascript, HTML, CSS) and SQL around.
